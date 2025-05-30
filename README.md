@@ -1,4 +1,4 @@
-# Jogo-de-Aster-ides
+# Jogo de Asteróides
 🚀 Asteroids Game - p5.js
 Bem-vindo ao Asteroids Game, um clássico jogo de nave espacial recriado com a biblioteca p5.js!
 
