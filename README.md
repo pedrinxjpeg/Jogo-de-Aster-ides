@@ -63,9 +63,9 @@ Clone este repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/asteroids-p5js.git
+git clone (https://editor.p5js.org/pedro.ferreira.oliveira22/sketches/Molzg6-uB)
 Abra o arquivo index.html em qualquer navegador moderno.
 
 Ou acesse a versão online:
-🔗 Link para o jogo (opcional)
+[🔗 Link para o jogo](https://seulink.com/)
 
